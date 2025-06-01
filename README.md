@@ -1,26 +1,19 @@
 ## Hi there, Inakode here 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=inakode&color=blue)
-<!--
-**inakode/inakode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🚀 [Launch Father](https://github.com/inakode/launch-father)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-Here are some ideas to get you started:
+👋 Hi there, I'm Inakode!
 
+I'm a developer passionate about blockchain, AI, automation, and smart contracts. I enjoy building high-performance applications and exploring decentralized technologies.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on solana related projects
-- 🤔 I’m looking for help with atomic transactions on solana
-- 💬 Ask me about solana and ethereum smart contracts
-- 📫 How to reach me: @b4that 
-- ⚡ Life is a Fun Fact. 
--->
+🚀 Recent Projects
+🔥 Launch Father – Tool for efficient deployment automation
 
-I'm a developer passionate about blockchain, AI, and automation.  
-🔭 **Recent Projects:**  
-- 🔭 I’m currently working on a public API
-- 🤖 [Image to csv Bot](https://github.com/inakode/image-reader-bot)
+🤖 AI-powered bot for data extraction [Image to csv Bot](https://github.com/inakode/image-reader-bot)
 
+🌐 Public API Development – Working on scalable API solutions
 
+🧩 Solana Atomic Transactions – Researching advanced decentralized strategies
+
+👨‍💻 Tech Stack & Tools
 - ### 🛠 Languages & Tools:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -34,7 +27,30 @@ I'm a developer passionate about blockchain, AI, and automation.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 
+🌱 Looking to Collaborate On
+Solana Smart Contracts & Atomic Transactions
+
+Decentralized Finance (DeFi) Projects
+
+Blockchain Infrastructure Development
+
+AI-driven Automation & Bots
+
+📫 How to reach me? 💬 Twitter: @b4that 💡 GitHub: github.com/inakode
+
+⚡ Fun Fact: "Life is a Fun Fact."
+
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inakode&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inakode&theme=dark)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=inakode&theme=dark)
+![Metrics](https://metrics.lecoq.io/inakode?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![GitHub Sponsor](https://github-profile-trophy.vercel.app/?username=inakode&theme=onedark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inakode&repo=launch-father)](https://github.com/inakode/launch-father)
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inakode&layout=compact&theme=dark)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=inakode&theme=onedark)
