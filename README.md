@@ -15,6 +15,7 @@ I'm a developer passionate about blockchain, AI, automation, and smart contracts
 
 🤖 AI-powered bot for data extraction [Image to csv Bot](https://github.com/inakode/image-reader-bot)
 
+
 🌐 Public API Development – Working on scalable API solutions
 
 🧩 Solana Atomic Transactions – Researching advanced decentralized strategies
