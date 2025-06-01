@@ -18,16 +18,10 @@ Here are some ideas to get you started:
 I'm a developer passionate about blockchain, AI, and automation.  
 🔭 **Recent Projects:**  
 - 🔭 I’m currently working on a public API
-- 🤖 [Image Reader Bot](https://github.com/inakode/image-reader-bot)  
+- 🤖 [Image to csv Bot](https://github.com/inakode/image-reader-bot)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inakode&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inakode&layout=compact&theme=dark)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=inakode&theme=onedark)
-
-
-### 🛠 Languages & Tools:
+- ### 🛠 Languages & Tools:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -38,4 +32,13 @@ I'm a developer passionate about blockchain, AI, and automation.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inakode&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inakode&layout=compact&theme=dark)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=inakode&theme=onedark)
+
+
+
 
