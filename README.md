@@ -35,7 +35,7 @@ AI-driven Automation & Bots
 
 📫 How to reach me? 💬 Twitter: @b4that 💡 GitHub: github.com/inakode
 
-⚡ Fun Fact: "Life is a Fun Fact."
+⚡"Life is a Fun Fact."
 
 
 
