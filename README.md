@@ -5,7 +5,7 @@
 I'm a developer passionate about blockchain, AI, automation, and smart contracts. I enjoy building high-performance applications and exploring decentralized technologies.
 
 🚀 Recent Projects
-🔥 Launch Father – Token Launcher with efficient deployment automation.
+🔥 Launch tool – Token Launcher with efficient deployment automation.(soon public)
 
 🤖 AI-powered bot for data extraction [Image to csv Bot](https://github.com/inakode/image-reader-bot)
 
