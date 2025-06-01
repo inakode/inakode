@@ -41,7 +41,7 @@ AI-driven Automation & Bots
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inakode&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inakode&theme=dark)
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=inakode&theme=dark)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=inakode&theme=light)
 
 
 
