@@ -60,7 +60,8 @@ AI-driven Automation & Bots
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=inakode&theme=onedark)
+
+<!--![Trophies](https://github-profile-trophy.vercel.app/?username=inakode&theme=onedark)
 
 
 
