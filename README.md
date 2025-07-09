@@ -4,8 +4,11 @@
 
 I'm a developer passionate about blockchain, AI, automation, and smart contracts. I enjoy building high-performance applications and exploring decentralized technologies.
 
-🚀 Recent Projects
-🔥 Launch Tool – A token launcher with efficient deployment automation, integrated AI-powered metadata generation, and tweet analysis from key figures for optimal market positioning. (Coming Soon!)
+🚀 Recent Projects  
+🔥 **Launch Tool** – A live token launcher with streamlined deployment automation.  
+→ Access via Telegram: [t.me/xeroai_launchbot](https://t.me/xeroai_launchbot)  
+→ Coming Soon: AI-powered metadata generation and tweet sentiment analysis from key figures to optimize market positioning.
+
 
 🔗 Blockchain Data Extraction & Wallet Management – Multi-chain ETH/SOL tool for buying, selling, transferring, and bridging assets, integrated into Telegram. 
 
