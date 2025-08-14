@@ -33,12 +33,20 @@ I'm a developer passionate about blockchain, AI, automation, and smart contracts
 
 <!-- Solidity (use this colorful variant from Skill Icons) -->
 <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" />
+<!-- GitHub (wordmark for better contrast) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" />
 
-<!-- Flask (use wordmark for more visual weight) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="40" height="40" />
+<!-- Solidity (colorful badge from Skill Icons) -->
+<img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" />
 
-<!-- Rust (colorful gear version) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" />
+<!-- Flask (colorful chemistry-style icon) -->
+<img src="https://www.freepik.com/icon/flask_12631373" width="40" height="40" />
+
+<!-- Rust (Ferris the Crab mascot) -->
+<img src="https://rustacean.net/assets/ferris.svg" width="40" height="40" />
+
+
+
 
 
           
