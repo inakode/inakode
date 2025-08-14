@@ -1,6 +1,5 @@
 ## Hi there, Inakode here 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=inakode&color=blue)
-👋 Hi there, I'm Inakode!
 
 I'm a developer passionate about blockchain, AI, automation, and smart contracts. I enjoy building high-performance applications and exploring decentralized technologies.
 
