@@ -5,7 +5,7 @@ I'm a developer passionate about blockchain, AI, automation, and smart contracts
 
 🚀 Recent Projects  
 🔥 **Launch Tool** – A live token launcher with streamlined deployment automation.  
-→ Access via Telegram: [t.me/xeroai_launchbot](https://rare-client.vercel.app/)  
+→ Access dapp: [🔗](https://rare-client.vercel.app/)  
 → Coming Soon: AI-powered metadata generation and tweet sentiment analysis from key figures to optimize market positioning.
 
 
