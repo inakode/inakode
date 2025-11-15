@@ -39,7 +39,7 @@ Blockchain Infrastructure Development
 
 AI-driven Automation & Bots
 
-📫 How to reach me? 💬 Twitter: @b4that 💡 GitHub: github.com/inakode
+📫 How to reach me? 💬 Twitter: @sol_rare 💡 GitHub: github.com/inakode
 
 ⚡"Life is a Fun Fact."
 
