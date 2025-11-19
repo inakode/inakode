@@ -1,4 +1,4 @@
-## Hi there, Inakode here 👋
+## Hi there, I'm Tay 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=inakode&color=blue)
 
 I'm a developer passionate about blockchain, AI, automation, and smart contracts. I enjoy building high-performance applications and exploring decentralized technologies.
