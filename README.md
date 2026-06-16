@@ -45,10 +45,6 @@ AI-driven Automation & Bots
 
 
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=inakode&theme=dark)
-
-
-
 
 
 
