@@ -1,4 +1,4 @@
-## Hi there, I'm Tay, living in a code 👋
+## Hi there, I'm living in a code 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=inakode&color=blue)
 
 I'm a developer passionate about blockchain, AI, automation, and smart contracts. I enjoy building high-performance applications and exploring decentralized technologies.
@@ -39,7 +39,7 @@ Blockchain Infrastructure Development
 
 AI-driven Automation & Bots
 
-📫 How to reach me? 💬 Twitter: @tayrarenfa 💡 GitHub: github.com/inakode
+📫 How to reach me? 💬 Mail: inakiisit@live.com 💡 GitHub: github.com/inakode
 
 ⚡"Life is a Fun Fact."
 
